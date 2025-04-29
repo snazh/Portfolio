@@ -2,7 +2,7 @@
 
 📞 +77750542376  
 📧 sanxius.kon@gmail.com  
-🌐 [GitLab](https://gitlab.com/sanxius) | [GitHub](https://github.com/snazh) | [LeetCode](https://leetcode.com/u/user4565c/) | (https://drive.google.com/drive/folders/1At_WBJumpzeMqp5b5zNhLzjFDNEz2vI-?usp=sharing)
+🌐 [GitLab](https://gitlab.com/sanxius) | [GitHub](https://github.com/snazh) | [LeetCode](https://leetcode.com/u/user4565c/)
 
 ---
 
