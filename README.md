@@ -2,7 +2,7 @@
 
 📞 +77750542376  
 📧 sanxius.kon@gmail.com  
-🌐 [GitLab](https://gitlab.com/sanxius) | [GitHub](https://github.com/snazh) | [LeetCode](https://leetcode.com/u/user4565c/) | [Portfolio (Google Drive)](https://drive.google.com/drive/folders/1At_WBJumpzeMqp5b5zNhLzjFDNEz2vI-?usp=sharing)
+🌐 [GitLab](https://gitlab.com/sanxius) | [GitHub](https://github.com/snazh) | [LeetCode](https://leetcode.com/u/user4565c/) | (https://drive.google.com/drive/folders/1At_WBJumpzeMqp5b5zNhLzjFDNEz2vI-?usp=sharing)
 
 ---
 
@@ -67,7 +67,8 @@ Telegram-бот для знакомств на базе aiogram3 с систем
 [LeetCode профиль](https://leetcode.com/u/user4565c/)
 
 ### **SHIPD.AI**  
-Решение алгоритмических задач для LLM системы. Заработал $30.  
+Решение алгоритмических задач для LLM системы. Заработал $30. 
+[SHIPD.AI Profile](https://drive.google.com/drive/folders/1At_WBJumpzeMqp5b5zNhLzjFDNEz2vI-?usp=sharing)
 
 ---
 
@@ -77,10 +78,9 @@ Telegram-бот для знакомств на базе aiogram3 с систем
 - **[math_iteration](https://github.com/snazh/math_iteration)** — метод аппроксимации корней  
 - **[Road Helper API](https://github.com/snazh/Road-Helper)** — backend API на Onion Architecture  
 - **[Блог на Django](https://github.com/snazh/blog)** — хранение медиа на AWS S3  
-- Игра платформер на Unity
+- **[Azamat's Adventure](https://github.com/snazh/NIS_game)** Игра платформер на Unity
 
 ---
 
 ## 📁 Портфолио
 
-🔗 [Google Drive с проектами и резюме](https://drive.google.com/drive/folders/1At_WBJumpzeMqp5b5zNhLzjFDNEz2vI-?usp=sharing)
